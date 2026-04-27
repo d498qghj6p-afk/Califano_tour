@@ -1,0 +1,360 @@
+{
+  "itinerari": [
+    {
+      "id": "Califano_cantautore",
+      "nome": "Tutto il resto è Roma",
+      "sottotitolo": "L'ultimo chansonnier tra asfalto e poesia",
+      "personaggio": {
+        "nome": "Franco Califano",
+        "anni": "1938-2013",
+        "professione": "Cantautore",
+        "nazionalita": "Italiana",
+        "biografia_breve": "Cantautore italiano, ha dato voce ad una Roma che si rivela solo a chi ha il coraggio di attraversare Ponte Sisto all'alba, quando la città si spoglia del caos turistico e rimane sola con i suoi fantasmi",
+        "immagine": "https://theitaliansong.com/wp-content/uploads/2020/10/Franco-Califano.jpg"
+      },
+      "tema": "Cantautorato Romano",
+      "categoria": "Poesia, Musica e Cultura",
+      "durata_totale_ore": 4,
+      "difficolta": "facile",
+      "immagine_copertina": "https://images.unsplash.com/photo-1775401152739-662f585e4360?w=1600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE0fGJvOGpRS1RhRTBZfHxlbnwwfHx8fHw%3D",
+      "distanza_totale_km": 3.8,
+      "periodo_consigliato": "Primavera/Estate (nei mesi meno caldi)",
+      "stagione_migliore": [
+        "marzo",
+        "aprile",
+        "maggio",
+        "giugno",
+        "settembre"
+      ],
+      "descrizione": "Immergiti nell’anima verace e malinconica di Franco Califano, percorrendo le strade che hanno dato voce al suo mito. Ogni tappa è un frammento di vita tra asfalto e poesia, da vivere sotto le luci dei lampioni quando la città si fa complice e silenziosa. Un viaggio notturno tra musica, cuore e quella 'Roma nuda' che solo il Califfo ha saputo raccontare.",
+      "note_logistiche": "Iniziare nel tardo pomeriggio, Portare acqua, scarpe comode e cuffie per il telefono. Prevedere pausa cena tra 3° e 4° tappa poichè ci si troverà a Trastevere,quartiere di Roma noto per la sua autenticità; in particolare si consiglia o un' esperienza caratteristica in una trattoria romana o se si preferisce una sosta più veloce si possono scegliere diversi fast food tra cui Trapizzino (alle spalle di piazza Trilussa) che propone un triangolo di focaccia ripiena con vari secondi della tradizione romana .",
+      "accessibilita": "Tutte le tappe si trovano nel cuore di Roma e con circa 55 min di camminata è possibile visitarle tutte, se si preferisce si possono fare 5 fermate di autobus 100 da Tritone/Barberini a Monte Brianzo risparmiando circa 1 km di camminata",
+      "costo_stimato": "Gratuito",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "Teatro Sistina",
+          "orario_consigliato": "18:00",
+          "momento_giornata": "inizio tramonto",
+          "durata_visita_min": 15,
+          "coordinate": [
+            41.90425,
+            12.48696
+          ],
+          "nome": "Teatro Sistina",
+          "descrizione_breve": "Il tempio indiscusso dello spettacolo romano, dove il Califfo divenne il 'Maestro'.",
+          "indicazioni_arrivo": "da Piazza Barberini circa 2 minuti a piedi, troverete il teatro sulla destra",
+          "esperienza_culturale": {
+            "musica": {
+              "brano_completo": "La mia Libertà",
+              "compositore": "Franco Califano",
+              "durata_sec": 265,
+              "organico": "Chitarra acustica arpeggiata in primo piano, accompagnata da una sezione ritmica morbida (basso e batteria) e tappeti di archi che enfatizzano i momenti drammatici del testo.",
+              "anno_pubblicazione": 1981,
+              "descrizione_musicale": "Il movimento si apre nel silenzio dell'alba, con delicate melodie pastorali affidate ai legni. Flauti e clarinetti imitano il canto degli uccelli che si svegliano. L'arpa evoca lo scorrere dell'acqua mentre la celesta crea un'atmosfera cristallina. È la Roma che si risveglia, poetica e intatta.",
+              "spotify_url": "https://open.spotify.com/intl-it/track/6JuqS34gicxFr92kO7D2Hm?si=9ac6351454844133",
+              "youtube_url": "https://youtu.be/ZQ1cUYNBzfM?si=BFbzX0G61--84trE",
+              "note_ascolto": "Inizia ad ascoltare il brano mentre sei di fronte all'ingresso del teatro. Scegliere una versione dal vivo ti permetterà di sentire in cuffia il boato del pubblico e i monologhi parlati di Califano. Chiudi gli occhi per qualche secondo e immagina di essere seduto in platea mentre il sipario si apre: ti farà percepire il magnetismo che esercitava sulla folla."
+            },
+            "atmosfera": {
+              "momento": "inizio del tramonto",
+              "luce": "dorata, con ombre che iniziano ad allungarsi",
+              "suoni_ambiente": [
+                "traffico di via Sistina nell'ora di punta",
+                "brusio dei bar per l'aperitivo",
+                "eco di passi"
+              ],
+          "quiz": {
+            "domanda": "Quale celebre architetto ha progettato il Teatro Sistina, tempio dei successi di Califano?",
+            "opzioni": ["Giuseppe Valadier", "Marcello Piacentini", "Gian Lorenzo Bernini", "Renzo Piano"],
+            "corretta": 1,
+            "spiegazione": "Marcello Piacentini progettò il teatro tra il 1946 e il 1949, creando un'acustica perfetta per gli chansonnier come Franco."
+          },
+              "temperatura_stimata": "20-21°C",
+              "affollamento": "medio-alto (afflusso pre spettacolo)",
+              "consiglio_fotografico": "Inquadratura dal basso verso l'alto per l'insegna al neon che inizia a brillare contro il tramonto.",
+              "emozione_target": "Attesa, ammirazione, energia"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Razionalismo italiano / Moderno",
+              "architetto": [
+                "Marcello Piacentini"
+              ],
+              "anno_costruzione": "1946-1949",
+              "committente": "Vicariato di Roma",
+              "descrizione": "La Consacrazione. Il palco dei suoi trionfi. Qui Califano si impose come chansonnier e monologhista, dominando la scena con ironia e carisma."
+            }
+          },
+          "storia": "Nato sulle ceneri di un vecchio cinema-teatro, divenne il tempio della commedia musicale.",
+          "curiosita": "Il soffitto è tecnicamente un pezzo d'ingegneria unico, progettato per un'acustica perfetta senza l'uso di amplificazione eccessiva.",
+          "metadata": {
+            "accessibilita": "Ingresso libero al foyer (se aperto); spettacoli a pagamento.",
+            "orari_standard": "Variabili in base agli show (botteghino 10-19).",
+            "servizi": [
+              "toilette",
+              "caffetteria"
+            ]
+          }
+        },
+        {
+          "numero": 2,
+          "poi_id": "Piazza Navona",
+          "orario_consigliato": "19:15",
+          "momento_giornata": "tramonto",
+          "durata_visita_min": 20,
+          "coordinate": [
+            41.89916,
+            12.47307
+          ],
+          "nome": "piazza Navona",
+          "descrizione_breve": "La piazza dei romani, dove la musica si fonde con l'eleganza barocca.",
+          "indicazioni_arrivo": "Da Piazza Barberini: scendendo per Via del Tritone fino a via della Scrofa poi svoltare a sinistra e proseguire dritto, svoltare a destra su via del Salvatore e proseguire dritto fino a piazza navona.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "25 min",
+            "autobus": "linea 100: 12 min + attese + 6 min a piedi",
+            "distanza_km": 2.1
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "brano_completo": "Me 'nnamoro de te",
+              "compositore": "Franco Califano",
+              "durata_sec": 200,
+              "anno_pubblicazione": 1977,
+              "organico": "Un arrangiamento tipicamente anni '70. Spicca un basso molto groove, ritmiche funkeggianti di chitarra, percussioni vivaci e una frizzante sezione fiati.",
+              "strumenti_protagonisti": [
+                "chitarre",
+                "percussioni",
+                "fiati"
+              ],
+              "spotify_url": "https://open.spotify.com/intl-it/track/1IHWy8c1KR1sE53IpP2ruM?si=9509497ab55b4382",
+              "youtube_url": "https://youtu.be/L9AVfjNfaTc?si=EwJJ0Mg8P7pUdSuN",
+              "note_ascolto": "Questo è il momento spensierato del tour. Ascolta il brano camminando a passo deciso e rilassato lungo il perimetro della piazza, magari sfiorando i tavolini dei caffè storici. Il ritmo della canzone si sposa perfettamente con lo sguardo del playboy che osserva la folla. Lasciati contagiare dal ritmo leggero e dall'ironia del testo mentre ammiri la Fontana dei Quattro Fiumi."
+            },
+          "quiz": {
+            "domanda": "Quale stile musicale caratterizza l'arrangiamento del brano 'Me 'nnamoro de te' associato a questa piazza?",
+            "opzioni": ["Opera lirica", "Rock progressivo", "Funk e Groove anni '70", "Musica elettronica"],
+            "corretta": 2,
+            "spiegazione": "Il brano del 1977 è famoso per il suo basso trascinante e le ritmiche tipicamente funk del periodo."
+          },            
+            "atmosfera": {
+              "momento": "tramonto",
+              "luce": "Ora blu. Luci calde sulle fontane.",
+              "suoni_ambiente": [
+                "Piatti dai ristoranti",
+                "risate",
+                "violini di strada"
+              ],
+              "temperatura_stimata": "18-19°C",
+              "affollamento": "Molto Alto",
+              "consiglio_fotografico": "Dettaglio delle statue della Fontana dei Quattro Fiumi illuminate artificialmente con la cupola sfocata sullo sfondo.",
+              "emozione_target": "Vitalità, spensieratezza, mondanità."
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Barocco",
+              "scultore": "G. L. Bernini(fontana), F. Borromini(sant' Agnese in Agone)",
+              "anno_costruzione": "1651-1672",
+              "committente": "Papa Innocento X Pamphilj",
+              "descrizione": "Il volto del Califfo viveur. Tra caffè e salotti, rappresenta l'anima mondana e seduttrice degli anni d'oro di Roma."
+            }
+          },
+          "storia": "Sorge sullo Stadio di Domiziano. La Fontana dei Quattro Fiumi rappresenta i fiumi dei 4 continenti allora conosciuti.",
+          "curiosita": "In passato la piazza veniva allagata in estate (il lago di Piazza Navona) per rinfrescare i cittadini.",
+          "metadata": {
+            "accessibilita": "gratuito, area pubblica",
+            "orari_standard": "24/7",
+            "servizi": [
+              "bar circostanti",
+              "ristoranti"
+            ]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "ponte sisto",
+          "orario_consigliato": "20:30",
+          "momento_giornata": "crepuscolo",
+          "durata_visita_min": 15,
+          "coordinate": [
+            41.89209,
+            12.47034
+          ],
+          "nome": "Ponte Sisto",
+          "descrizione_breve": "Il confine magico per osservare la 'Roma Nuda' e solitaria.",
+          "indicazioni_arrivo": "Da Piazza Navona andare verso il tevere paasando per Campo de' Fiori",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "14 min",
+            "distanza_km": 1.01
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "brano_completo": "Roma nuda",
+              "compositore": "Franco Califano",
+              "anno_pubblicazione": 1977,
+              "durata_sec": 200,
+              "descrizione_musicale": "Arrangiamento scarno e intimo. Chitarra acustica pizzicata, accordi lenti di pianoforte e archi molto sottili e malinconici che entrano in punta di piedi, simulando il silenzio della notte.",
+              "carattere": "intimo e malinconico",
+              "spotify_url": "https://open.spotify.com/intl-it/track/2aGVaPv3LqzTLkyw4qrPKn?si=deccfdeeb5264e90",
+              "youtube_url": "https://youtu.be/_V6Q0ojfC4s?si=pZ1M-XnaqkVrstaL",
+              "note_ascolto": "Arriva a metà di Ponte Sisto, appoggiati al parapetto e guarda scorrere l'acqua scura del Tevere sotto di te, con la Cupola di San Pietro illuminata in lontananza. Fai partire la traccia in questo esatto momento. La voce sussurrata e graffiata di Califano, unita al rumore reale dell'acqua e al silenzio della città, ti farà capire esattamente cosa intendeva per Roma nuda"
+            },
+            "quiz": {
+            "domanda": "Secondo la biografia di Califano, qual è il momento migliore per attraversare questo ponte e vedere la città senza maschere?",
+            "opzioni": ["A mezzogiorno", "All'ora di punta", "All'alba", "Il sabato pomeriggio"],
+            "corretta": 2,
+            "spiegazione": "Califano sosteneva che Roma si spogliasse del caos turistico solo all'alba, rimanendo sola con i suoi fantasmi."
+          },            
+            "atmosfera": {
+              "momento": "crepuscolo",
+              "luce": "Notte. Lampioni riflessi sul fiume.",
+              "suoni_ambiente": [
+                "Fruscio del Tevere",
+                "passi lenti",
+                "il vento che soffia sui piloni"
+              ],
+              "temperatura_stimata": "16-17°C",
+              "affollamento": "Medio (flusso verso Trastevere)",
+              "consiglio_fotografico": "Scatto simmetrico dal centro del ponte con i lampioni che creano una prospettiva luminosa verso Trastevere.",
+              "emozione_target": "Malinconia, isolamento introspettivo"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Rinascimento",
+              "architetto": "Baccio Pontelli",
+              "anno_costruzione": "1473-1479",
+              "committente": "Papa Sisto IV",
+              "descrizione": "La porta per Trastevere. Attraversarlo con l'audio in cuffia rievoca la sua filosofia notturna: l'uomo che non dorme per non perdersi nulla della vita, l'eterno solitario che osserva scorrere il tempo e il fiume"
+            }
+          },
+          "storia": "Voluto da Papa Sisto IV per il Giubileo, riutilizzando i resti di un antico ponte romano (Ponte di Agrippa).",
+          "curiosita": "Presenta un occhialone centrale (un foro circolare) per ridurre la pressione dell'acqua durante le piene del Tevere.",
+          "metadata": {
+            "accessibilita": "gratuito,pedonale, area pubblica",
+            "orari_standard": "24/7",
+            "servizi": [
+              "gelaterie famose",
+              "ristoranti",
+              "negozi di souvenir"
+            ],
+            "suggerimento": "Fermarsi dopo aver visitato ponte sisto a Piazza trilussa per effettuare la cena consiglio fast food come Trapizzino che propone dei secondi tipici romani dentro un triangolo di focaccia a prezzi onesti "
+          }
+        },
+        {        
+          "numero": 4,
+          "poi_id": "Campidoglio",
+          "orario_consigliato": "22:00",
+          "momento_giornata": "notte",
+          "durata_visita_min": 15,
+          "coordinate": [
+            41.89335,
+            12.4828
+          ],
+          "nome": "campidoglio e sala della Protomoteca",
+          "descrizione_breve": "La terrazza finale sulla storia eterna, dove tutto il resto è noia.",
+          "indicazioni_arrivo": "Da Ponte Sisto: proseguire sul lungotevere in direzione isola tiberina, svoltare verso via del teatro Marcello e procedi in direzione opposta rispetto a quella seguita sul lungotevere,la sclainata per la Piazza del Campidoglio sarà sulla destra poco prima di Piazza Venezia.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "20 min",
+            "distanza_km": 1.35
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "brano_completo": "Non escludo il ritorno",
+              "compositore": "Franco Califano",
+              "durata_sec": 270,
+              "anno_pubblicazione": 2005,
+              "descrizione_musicale": "Un arrangiamento orchestrale ampio e solenne, tipico dei brani sanremesi. Grandi sezioni di archi (violini e violoncelli), pianoforte a coda e un crescendo di batteria e percussioni che dona un senso di epicità e chiusura.",
+              "carattere": "solenne ed epico",
+              "spotify_url": "https://open.spotify.com/intl-it/track/62Yr8pqrd4lJFvhwnhcOTf?si=33556c0c0aa7420d",
+              "youtube_url": "https://youtu.be/hl7R9L9xuDA?si=ylohY3uQ3hb0ozoU",
+              "note_ascolto": "Fai partire il brano ai piedi della scalinata della Cordonata. Usa l'introduzione strumentale per salire lentamente i gradini. L'obiettivo è arrivare al centro della piazza, proprio davanti alla statua equestre di Marco Aurelio, nel momento esatto in cui il ritornello si apre in tutta la sua potenza orchestrale. È un brano che parla di addii ma anche di immortalità, perfetto per concludere il percorso nel luogo che ha consacrato il suo mito.",
+              "curiosità": "Il titolo di questa canzone è diventato poi il celebre epitaffio che Califano ha fatto icidere sulla propria lapide "
+            },
+            "letteratura": {
+              "citazione": "Quello che c'è de vero in questo monno / è un po' de bene, un po' de compassione / e la tranquillità de l'illusioni.",
+              "autore": "Trilussa (Carlo Alberto Salustri)",
+              "opera": "Acqua e vino (interpretata spesso anche da Califano nei suoi monologhi)",
+              "anno": 1944,
+              "contesto": "Il Campidoglio, nel silenzio delle ore 22:00, diventa il palcoscenico per i pensieri più profondi. Trilussa, di cui Califano è considerato l'erede morale, riassume in questi versi la filosofia del 'Califfo': la disillusione, la noia, ma anche la profonda umanità di chi osserva la vita scorrere da sotto i lampioni di Roma."
+            },
+            "atmosfera": {
+              "momento": "notte",
+              "luce": "Illuminazione monumentale bianca e solenne.",
+              "suoni_ambiente": [
+                "Silenzio profondo",
+                "rintocchi lontani",
+                "passi sui sanpietrini."
+              ],
+              "temperatura_stimata": "14°C",
+              "affollamento": "Basso (atmosfera solenne)",
+              "vista_panoramica": "Sui musei Capitolini da un lato e su piazza venezia dall' altro",
+              "consiglio_fotografico": "Scatto grandangolare dalla Cordonata per catturare la stella della pavimentazione michelangiolesca illuminata nel buio.",
+              "emozione_target": "Solennità, eternità, rispetto profondo"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Manierismo/Rinascimento",
+              "architetto": "Michelangelo Buonarroti, Giacomo della Porta",
+              "anno_costruzione": "dal 1536 al XVII sec.",
+              "committente": "Papa Paolo III Farnese",
+              "descrizione": "L'Abbraccio della città. L'ultimo saluto. Nel 2013 Roma ha allestito qui la sua camera ardente (Sala della Protomoteca). Un luogo solenne per dimostrare come il cantautore fosse divenuto una vera e propria istituzione cittadina."
+            }            
+          },
+          "storia": "Prima piazza moderna di Roma, progettata per guardare verso la Basilica di San Pietro anziché verso il Foro.",
+          "curiosita": "La statua equestre di Marco Aurelio al centro è una copia; l'originale è conservata nei Musei Capitolini per proteggerla.",
+          "connessione_Califano": "Nonostante fosse nato a Tripoli, Califano è stato romano per vocazione assoluta. Quando si è spento nel 2013, la sua camera ardente è stata allestita proprio qui, nella prestigiosa Sala della Protomoteca.",
+          "metadata": {
+            "accessibilita": "Piazza gratuita; Musei a pagamento.",
+            "orari_standard": "lun-Dom 9:30-19:30",
+            "warning": "la biglietteria chiude 1 ora prima del museo",
+            "servizi": [
+              "bookshop",
+              "mostre temporanee"
+            ]
+          },
+          "esperienza_culturale_bonus": {
+            "musica": {
+            "brano_completo": "Io non piango",
+            "compositore": "Franco Califano",
+            "anno_pubblicazione": 1979,
+            "durata_sec": 200,
+            "descrizione_musicale": "Arrangiamento scarno e intimo. Chitarra acustica pizzicata, accordi lenti di pianoforte e archi molto sottili e malinconici che entrano in punta di piedi, simulando il silenzio della notte.",
+            "carattere": "intimo e malinconico",
+            "spotify_url": "https://open.spotify.com/intl-it/track/3KpKJkiyv02oxxSiIzKKQO?si=e69f5ff885414a84",
+            "youtube_url": "https://youtu.be/Vs6F3PzR2NE?si=AL3kbrwUayrI6WZj",
+            "note_ascolto": "Raggiungi la scalinata alle spalle del Campidoglio che si affaccia sui Fori Romani. Fermati nel buio, con le rovine millenarie illuminate davanti a te e fai partire la traccia in questo esatto momento. La voce sussurrata, orgogliosa e graffiata di Califano, unita alla solennità dei Fori di notte e al silenzio della città dall'alto, ti farà percepire l'anima più profonda e amara della sua poesia."
+            },
+             "quiz": {
+            "domanda": "Quale sensazione suggerisce Califano di ricercare ascoltando 'Tutto il resto è noia' di fronte ai Fori illuminati?",
+            "opzioni": ["Allegria sfrenata", "L'anima più profonda e amara della sua poesia", "Voglia di ballare", "Paura dell'antichità"],
+            "corretta": 1,
+            "spiegazione": "Il contrasto tra la grandezza dei ruderi e la malinconia del testo crea un'esperienza filosofica unica."
+          }
+          } 
+        }  
+      ],
+      "mappa_percorso": {
+        "polyline_encoded": "esempio_encoded_string",
+        "colore_percorso": "#e74c3c",
+        "stile_linea": "dashed"
+      },
+      "consigli_pratici": [
+        "Portare bottiglia d'acqua riutilizzabile (fontanelle romane lungo il percorso)",
+        "Scarpe comode obbligatorie (4 km a piedi)",
+        "Occhiali da sole",
+        "Cuffie di buona qualità per ascoltare la musica",
+        "Considerare pausa cena tra 3° e 4° tappa (molti ristoranti in zona)"
+      ],
+      "migliore_periodo_anno": "Aprile-Giugno o Settembre-Ottobre (luce migliore, temperature miti)",
+      "sconsigliato": [
+        "Piena estate (troppo caldo)",
+        "Gennaio-Febbraio (tramonto troppo presto)"
+      ],
+      "cosa_portare": [
+        "Smartphone con app mappe",
+        "Cuffie/auricolari",
+        "Bottiglia acqua",
+        "Cappello",
+        "occhiali da sole",
+        "Snack energetici",
+        "Batteria portatile"
+      ]
+    }
+  ]
+}
